@@ -12,7 +12,9 @@
   "author": "Chen Chi <chenchi@streamax.com>",
   "license": "ISC",
   "dependencies": {
+    "codemirror": "^5.65.15",
     "leaflet": "^1.9.4",
+    "nanoid": "^5.0.1",
     "next": "^12.3.4",
     "nextra": "^2.12.0",
     "nextra-theme-docs": "^2.12.0",

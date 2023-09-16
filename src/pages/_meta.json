@@ -1,8 +1,18 @@
 {
     "index":"首页",
     "help":{
-        "title":"常见问题",
-        "type":"page"
+        "title":"帮助",
+        "type":"menu",
+        "items": {
+            "about": {
+              "title": "关于",
+              "href": "/about"
+            },
+            "contact": {
+              "title": "Contact Us",
+              "href": "/faq"
+            }
+        }
     },
     "contact": {
         "title": "联系我们",

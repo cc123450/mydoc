@@ -1,10 +1,9 @@
-import { Bleed, Head, SideBar } from 'nextra-theme-docs'
+import CodeMirror from "codemirror"
 
 export default function(){
 
     return (
         <>
-            <SideBar/>
             <div>code playground</div>
         </>
        
