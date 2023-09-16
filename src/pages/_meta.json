@@ -1,0 +1,13 @@
+{
+    "index":"首页",
+    "help":{
+        "title":"常见问题",
+        "type":"page"
+    },
+    "contact": {
+        "title": "联系我们",
+        "type": "page",
+        "href": "https://map.streamax.com/streamap-service/",
+        "newWindow": true
+    }
+}

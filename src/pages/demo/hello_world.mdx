@@ -1,0 +1,25 @@
+# 入门示例
+
+export const code = `
+    <div id='map' style={{height:300,background:'#ccc',border:'1px solid #000'}}>
+    </div>
+`
+
+import { LiveProvider, LiveEditor, LiveError, LivePreview } from "react-live";
+
+<LiveProvider code={code}>
+  <LiveEditor />
+  <LiveError />
+  <LivePreview />
+</LiveProvider>
+
+
+```js {1,4-5} copy
+import { useState } from 'react'
+ 
+function Counter() {
+  const [count, setCount] = useState(0)
+  return <button onClick={() => setCount(count + 1)}>{count}</button>
+}
+```
+
