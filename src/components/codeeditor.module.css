@@ -1,6 +1,6 @@
-.ce-preview {
-    border: none;
-    padding: 0;
-    margin: 0;
-    display: inline-block;
+.ce-textarea {
+    transition: width 0.25s;
+}
+.ce-textarea.hide {
+    width: 0;
 }

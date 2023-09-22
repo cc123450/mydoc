@@ -33,7 +33,7 @@ export function CodeViewer({children, height=300}){
       <div style={{ marginTop: '1.5rem' }}>
         {children}
       </div>
-      <div id={mapContainerId.current} style={{height,border:'1px solid #000',zIndex:-1}}>
+      <div id={mapContainerId.current} style={{height,border:'1px solid #000'}}>
       </div>
     </div>
   )

@@ -1,0 +1,18 @@
+{
+    "version":"1.0",
+    "pages":[
+        {
+            "title":"地图基础库",
+            "children":[
+                {
+                    "title":"入门示例",
+                    "href":"/examples/get_start.html"
+                },
+                {
+                    "title":"地图状态",
+                    "href":"/examples/map_state.html"
+                }
+            ]
+        }
+    ]
+}
