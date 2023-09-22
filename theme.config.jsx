@@ -1,5 +1,5 @@
 export default {
-    logo: <span>My Nextra Documentation</span>,
+    logo: <span>this is mydoc</span>,
     project: {
       link: 'https://map.streamax.com/streamap-service/'
     }
